@@ -4,7 +4,7 @@
 
 [**Video-1**](https://twitter.com/_nonfigurativ_/status/1727657159318454686)
 
-[**Video-2**](https://twitter.com/_nonfigurativ_/status/1727322594570027343?s=46&t=9siTaEW03k3Wg5AkY2l3pw)
+[**Video-2 Best quantum entanglement graphic**](https://twitter.com/_nonfigurativ_/status/1727322594570027343?s=46&t=9siTaEW03k3Wg5AkY2l3pw)
 
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
